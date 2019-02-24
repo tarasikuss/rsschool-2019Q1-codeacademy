@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Taras Nemov
+HTML CSS Basics: https://htmlacademy.ru/profile/id467023/achievements
